@@ -1,0 +1,4 @@
+netty:
+  server:
+    socket-port: 12345
+    socket-path: /ws
